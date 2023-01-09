@@ -8,6 +8,7 @@ According to the choice, create object for the specific class. Repeat the menu d
 Use Dynamic Polymorphism for binding the functions. Use static data member for automatic book id generation.  
 Refer the Sample I/O for data members.
 Sample Input:
+
 1  (Choice of object)
 Ikkigai 
 Roy
