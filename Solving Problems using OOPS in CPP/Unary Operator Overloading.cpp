@@ -30,6 +30,7 @@ class Sample
 Sample::Sample()
 {
     x = 0;
+    
     y = 0;
 }
 void Sample::readData()
