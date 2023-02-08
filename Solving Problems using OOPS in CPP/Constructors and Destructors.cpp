@@ -3,13 +3,9 @@ Include a default constructor with a cout statement printing "Constructor is Cal
 Include a default destructor with a cout statement printing "Destructor is Called". Create objects in such a way that it displays the following output:
 
 Constructor is Called
-
 Constructor is Called
-
 Constructor is Called
-
 Destructor is Called
-
 Destructor is Called*/
 
 #include <iostream>
